@@ -2,9 +2,9 @@
 
 CompEarn is a DeFi strategy that compounds yield by performing multi-cycle stable coin 
 investments in Compound and Aave protocol. The multi-cycle stable coin investment process is
-centered around the concept of Recursive Lending strategy where a user recursively lends an asset
-to a protocol and then borrows upto the collateral factor provided by that protocol accruing as much
-reward from the protocol as they possibly can. 
+centered around the concept of Recursive Lending strategy where a user recursively lends an 
+asset to a protocol and then borrows upto the collateral factor provided by that protocol, 
+accruing as much reward from the protocol as they possibly can. 
 
 
 ## Architecture 
